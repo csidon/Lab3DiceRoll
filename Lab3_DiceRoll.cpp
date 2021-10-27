@@ -83,3 +83,8 @@ int diceRoll(int rollPointer)
 //	cout << "test" << p(0);
 //	cout << "The value of p1vec is " << p[0];
 //}
+
+int setMaxScore()
+{
+	cout << "What is the maximum score that you'd like to roll for?"
+}
