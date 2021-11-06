@@ -1,3 +1,4 @@
 ﻿  Lab3_DiceRoll.cpp
-C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\Lab3_DiceRoll\Lab3_DiceRoll.cpp(69,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\Lab3_DiceRoll\Lab3_DiceRoll.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\Lab3_DiceRoll\Lab3_DiceRoll.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
   Lab3_DiceRoll.vcxproj -> C:\Users\Chris\Desktop\Yoobee\CS103_Oct21\Lab3_DiceRoll\Debug\Lab3_DiceRoll.exe
